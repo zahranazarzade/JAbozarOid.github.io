@@ -2,8 +2,27 @@
 
 ---
 
-+ Date
-  - 8/6/2020
++ BirthDate
+  - 9/6/1986
++ Married
++ I work as senior Android/Flutter developer in AratelVC company since 2018
++ Mobile
+  - 09125988667
++ Email
+  - abozar.raghibdoust@gmail.com
++ Tehran Province  
+
+### Summary
+
+---
+
+As an experienced Mobile Application Developer with knowledge in both Java and Kotlin programming languages for Android platform and Flutter cross-platform with the Dart Programming language for both Android and IOS devices. I feel confident that I am the right person to help your company to reach the next level of success.
+I offer more than 6 years of Android platform and 2 years of Flutter cross-platform development, completely familiar with Android SDK and Ecosystem, different versions of Android, Design patterns, and Test-Driven Development, State management, a strong aptitude for learning new technologies, and a proven track record of meeting aggressive goals. My most notable skills include:
+I possess strong knowledge of both Java and Kotlin programming languages, Custom Android UI widgets, Android design patterns such as MVP, MVI and MVVM, Android Jetpack - Architecture Libraries, Material design, Rxjava, Rxandroid, ViewModel LiveData, and data binding, Firebase cloud messaging and notification, SQLite, Realm and room persistence, Gitlab CI and Jenkins, strong knowledge Restful API, JSON, Dart/RxDart and bloc pattern and provider pattern for Flutter, More than 12 apps from scratch that published on Google Play.
+Play multiple simultaneous roles in a project such as Android developer, Flutter developer, time manager, and scrum master.
+Project Management: I have been successful in providing high-level technical direction to drive projects from conception and design through QA and deployment.
+Communication Skills: I am comfortable communicating with technical and non-technical employees throughout the company in order to complete projects and achieve organizational goals.
+Overall, I feel that my knowledge as a programmer and my passion for new technologies makes me the ideal candidate to meet your development needs. I'd be glad to discuss my abilities and background with you in more detail. Thank you for your time and consideration. 
 
 ### Skill Highlights
 
@@ -69,6 +88,31 @@
 + Bachelor's in Computer Software Engineering
   - Payame Noor University - Tehran
   - October 2019 to Present
+  
+### Licenses & Certifications
+
+--- 
+
++ Work Experience and Qualification Assessment
+  - Australian Computer Society (ACS) since September 2018
++ J2SE
+  - Avan Co.
+  
+### Languages
+
+---
+
++ English 
+  - Pearson Test of English - Upper Intermediate
++ Persian
+  - Native
+
+### Projects
+
+---
+
++ Arcade/Arcadium Flutter Game App
+  - https://play.google.com/store/apps/details?id=com.aratel.arcade
   
 ### Quera Profile Link
 
