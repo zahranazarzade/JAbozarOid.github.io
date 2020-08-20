@@ -1,4 +1,4 @@
-### Resume
+### Intro
 
 ---
 
@@ -10,9 +10,9 @@
   - 09125988667
 + Email
   - abozar.raghibdoust@gmail.com
-+ Tehran Province  
++ Iran,Tehran Province  
 
-### Summary
+### About
 
 ---
 
