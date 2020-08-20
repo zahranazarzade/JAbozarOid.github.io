@@ -111,9 +111,9 @@ Overall, I feel that my knowledge as a programmer and my passion for new technol
 
 ---
 
-+ Arcade/Arcadium Flutter Game App Project
++ Arcade/Arcadium Flutter Game App Project since 2018
   - https://play.google.com/store/apps/details?id=com.aratel.arcade
-+ Flutter Web R&D  
++ Flutter Web R&D since 2019
   
 ### Recommendations
 
