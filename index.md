@@ -114,6 +114,16 @@ Overall, I feel that my knowledge as a programmer and my passion for new technol
 + Arcade/Arcadium Flutter Game App
   - https://play.google.com/store/apps/details?id=com.aratel.arcade
   
+### Recommendations
+
+---
+
++ Mohsen Shakiba
+  - https://www.linkedin.com/in/mohsen-shakiba-07aba481/
++ Masoud Rahimi
+  - https://www.linkedin.com/in/masoud-rahimi-gk/
+  
+  
 ### Quera Profile Link
 
 ---
@@ -126,4 +136,8 @@ Overall, I feel that my knowledge as a programmer and my passion for new technol
 
 + https://www.linkedin.com/in/abozarraghibdoust/
 
+### Resume Assessment
 
+---
+
++ 7/10
