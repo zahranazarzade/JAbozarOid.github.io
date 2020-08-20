@@ -1,3 +1,5 @@
+!(/images/avatar.png)
+
 ### Intro
 
 ---
