@@ -1,4 +1,4 @@
-!(/images/avatar.png)
+![My Avatar](/images/Abozar.jpg)
 
 ### Intro
 
