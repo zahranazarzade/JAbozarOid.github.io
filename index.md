@@ -149,4 +149,4 @@ Overall, I feel that my knowledge as a programmer and my passion for new technol
 
 ---
 
-[رزومه فارسی](index-fa)
+[رزومه فارسی](/index-fa)
