@@ -1,5 +1,5 @@
 ---
-layout: page-rtl
+layout: rtl
 title: رزومه فارسی ابوذر رقيب دوست
 ---
 
