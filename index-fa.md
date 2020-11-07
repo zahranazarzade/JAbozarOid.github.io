@@ -1,18 +1,20 @@
 ---
 layout: rtl
 title: رزومه فارسی زهرا نظرزاده
+---
 # درباره من
+دانشجو مهندسی کامپیوتر کارشناسی
 
 * متولد 1378
-*مجرد
+* مجرد
 * ساکن تهران
 * 09333583465
 
 # توانایی ها
-نرم افزار word 
- primier pro 
-photoshop 
-powerpoint  
+ *نرم افزار word 
+ *primier pro 
+* photoshop 
+* powerpoint  
 
 
 # سوابق کاری
