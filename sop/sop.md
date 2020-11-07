@@ -1,13 +1,13 @@
-### Intro
-
+---
+layout: rtl
+title: رزومه فارسی ابوذر رقيب دوست
 ---
 
-+ BirthDate
-  - 9/6/1986
-+ Married
-+ I work as senior Android/Flutter developer in AratelVC company since 2018
-+ Mobile
-  - 09125988667
-+ Email
-  - abozar.raghibdoust@gmail.com
-+ Iran,Tehran Province  
+# درباره من
+
+بیش از ۱۰ سال سابقه کاری در توسعه اپليكيشن هاي موبايل در طول اين سال‌ها اپليكيشن هاي  بسیاری را طراحی و پياده سازي كرده ام 
+
+* متولد 1365
+* متاهل
+* ساکن تهران
+* 09125988667
