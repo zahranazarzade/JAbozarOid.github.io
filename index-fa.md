@@ -11,10 +11,10 @@ title: رزومه فارسی زهرا نظرزاده
 * 09333583465
 
 # توانایی ها
- *نرم افزار word 
- *primier pro 
-* photoshop 
-* powerpoint  
+*نرم افزار word 
+*primier pro 
+*photoshop 
+*powerpoint  
 
 
 # سوابق کاری
