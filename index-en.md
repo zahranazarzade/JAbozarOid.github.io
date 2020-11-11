@@ -28,9 +28,8 @@ Software: Word and Premier Pro and Photoshop and PowerPoint
   Has a C # degree from Tehran Technical Complex with a grade
  100
  I do not have a work history
+ 
 ### Working Experiences
-
-  
 
 --- For the time being, I dont have any work related experience
 
@@ -43,6 +42,6 @@ Software: Word and Premier Pro and Photoshop and PowerPoint
 
 ---
 
-# Persion CV
+### Persion CV
 
 [رزومه فارسی](/index)
