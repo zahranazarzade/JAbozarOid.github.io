@@ -42,3 +42,7 @@ Software: Word and Premier Pro and Photoshop and PowerPoint
 + English 70%
 
 ---
+
+# Persion CV
+
+[رزومه فارسی](/index-en)
