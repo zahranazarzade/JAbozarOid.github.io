@@ -32,7 +32,7 @@ Software: Word and Premier Pro and Photoshop and PowerPoint
 
   
 
---- I dont have a work history
+--- For the time being, I dont have any work related experience
 
   
 ### Languages
@@ -40,8 +40,5 @@ Software: Word and Premier Pro and Photoshop and PowerPoint
 ---
 
 + English 70%
-  - 
-  
-#
 
 ---
