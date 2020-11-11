@@ -45,3 +45,5 @@ Software: Word and Premier Pro and Photoshop and PowerPoint
 ### Persion CV
 
 [رزومه فارسی](/index)
+
+---
